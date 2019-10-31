@@ -1,0 +1,14 @@
+﻿@{
+    ViewBag.Title = "encrypt";
+}
+
+<form action="@Url.Action("EncryptFile","Home")" method="post" enctype="multipart/form-data"  id="encryptform">
+
+<input type="file" name="encryptfile" id="encryptfile" />
+<input type="password" name="password" minlength="5" id="password" />
+@Html.ValidationMessage("password")
+
+<button type="submit">Upload</button>
+
+</form>
+

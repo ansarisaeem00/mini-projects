@@ -1,0 +1,10 @@
+F:\project\disk scheduling\DiskSchedulingSimulation-master\DiskSchedulingAlgorithms\bin\Debug\DiskSchedulingAlgorithms.exe.config
+F:\project\disk scheduling\DiskSchedulingSimulation-master\DiskSchedulingAlgorithms\bin\Debug\DiskSchedulingAlgorithms.exe
+F:\project\disk scheduling\DiskSchedulingSimulation-master\DiskSchedulingAlgorithms\bin\Debug\DiskSchedulingAlgorithms.pdb
+F:\project\disk scheduling\DiskSchedulingSimulation-master\DiskSchedulingAlgorithms\obj\Debug\DiskSchedulingAlgorithms.MainForm.resources
+F:\project\disk scheduling\DiskSchedulingSimulation-master\DiskSchedulingAlgorithms\obj\Debug\DiskSchedulingAlgorithms.Properties.Resources.resources
+F:\project\disk scheduling\DiskSchedulingSimulation-master\DiskSchedulingAlgorithms\obj\Debug\DiskSchedulingAlgorithms.csproj.GenerateResource.Cache
+F:\project\disk scheduling\DiskSchedulingSimulation-master\DiskSchedulingAlgorithms\obj\Debug\DiskSchedulingAlgorithms.csproj.CoreCompileInputs.cache
+F:\project\disk scheduling\DiskSchedulingSimulation-master\DiskSchedulingAlgorithms\obj\Debug\DiskSchedulingAlgorithms.exe
+F:\project\disk scheduling\DiskSchedulingSimulation-master\DiskSchedulingAlgorithms\obj\Debug\DiskSchedulingAlgorithms.pdb
+F:\project\disk scheduling\DiskSchedulingSimulation-master\DiskSchedulingAlgorithms\obj\Debug\DiskSchedulingAlgorithms.csprojResolveAssemblyReference.cache

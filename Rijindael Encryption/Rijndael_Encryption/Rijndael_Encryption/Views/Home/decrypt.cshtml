@@ -1,0 +1,14 @@
+﻿@{
+    ViewBag.Title = "decrypt";
+}
+
+<h2>decrypt</h2>
+
+<form action="@Url.Action("DecryptFile", "Home")" method="post" enctype="multipart/form-data"  id="decryptform">
+
+<input type="file" name="decryptfile" id="decryptfile" required/>
+<input type="password" name="password" min="5" id="password" required/>
+@Html.ValidationMessage("password")
+<button type="submit">Upload</button>
+
+</form>
